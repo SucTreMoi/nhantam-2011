@@ -1,0 +1,6 @@
+/* Add here all your css styles (customizations) */
+
+.menu-mobile{
+    position: fixed; left: 0; right: 0; bottom: 0; background: rgba(86, 84, 84, 0.4);
+}
+
